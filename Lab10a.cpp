@@ -21,5 +21,5 @@ int main()
 	std::cout << "The total value of " << item1.getItemName() << ":$" << item1.calculateTotalValue() << std::endl;
 	std::cout << "The total value of " << item2.getItemName() << ":$" << item2.calculateTotalValue() << std::endl;
 
-	return 0
+	return 0;
 }
